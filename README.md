@@ -1,1 +1,25 @@
 # bejaarden-platgooien-op-daalhof
+
+# klaxon
+https://en.wiktionary.org/wiki/klaxon
+
+# drilboor
+https://nl.wikipedia.org/wiki/Drilboor
+
+# fire alarm system
+https://en.wikipedia.org/wiki/Fire_alarm_system
+
+# graafmachine
+https://nl.wikipedia.org/wiki/Graafmachine
+
+# auditory cortex
+https://en.wikipedia.org/wiki/Auditory_cortex
+
+# auditory system
+https://en.wikipedia.org/wiki/Auditory_system
+
+# verzorgingshuis
+https://nl.wikipedia.org/wiki/Verzorgingshuis
+
+# daalhof
+https://nl.wikipedia.org/wiki/Daalhof
